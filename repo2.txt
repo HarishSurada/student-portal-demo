@@ -6,12 +6,3 @@ SUC NO:  2342230311
 G-NAIL:  s.harish143ff@gmail.com
 
 GENDER:  Male
-
-NAME:    Harish Surada
-COLLEGE: Aditya Degree College(gopalapatnam)
-CLASS:   BSC Cloud Computing
-SECTION: B
-SUC NO:  2342230311
-G-NAIL:  s.harish143ff@gmail.com
-
-GENDER:  Male
